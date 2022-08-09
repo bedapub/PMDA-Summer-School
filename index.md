@@ -1,8 +1,19 @@
-## Welcome to GitHub Pages
+## Predictive Modelling and Data Analytics
 
 You can use the [editor on GitHub](https://github.com/LuisaMohr/PMDA-Summer-School/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Important information
+
+* Date and time
+* Location
+
+### Information
+
+1. Insurance and accomodation is the responsibility of the participants.
+1. Lunch and snakcs are provided.
+2. Social events include *Science Talk*, *Career Talks*, Roche site tour, and dinner.
 
 ### Markdown
 
