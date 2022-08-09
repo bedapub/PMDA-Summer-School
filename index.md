@@ -1,4 +1,4 @@
-## Predictive Modelling and Data Analytics
+## Predictive Modeling and Data Analytics
 
 You can use the [editor on GitHub](https://github.com/LuisaMohr/PMDA-Summer-School/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
