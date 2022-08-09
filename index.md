@@ -1,16 +1,13 @@
 ## Predictive Modeling and Data Analytics
 
+### Introduction
+
 The **Predictive Modeling and Data Analytics** (PMDA) chapter is a multidisciplinary team in the department of Pharmaceutical Sciences at Roche. The chapter develops and applies data analysis, visualization, and modeling tools for pharma research and early development. To introduce students to applied predictive modeling and data analysis in drug discovery and development, the PMDA chapter hosts a one-week summer school in Basel.
-
-You can use the [editor on GitHub](https://github.com/LuisaMohr/PMDA-Summer-School/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Important information
 
 * Date and time
 * Location
-* 
 
 ### Information
 
