@@ -25,5 +25,5 @@ To apply, please submit both a Motivation Letter and a CV. For registration purp
 * **Daily working time**: 8:30-17:30 with a lunch break 
 * **Working language**: English
 * **Insurance**: Insurance and accomodation is the responsibility of the participants
-* **Lunch**: We go to lunch together. The lunch is sponsored by the Roche Pharmaceutical Sciences (PS) Predictive Modeling and Data Analytics (PMDA) chapter.
-* **Social events**: Social events include Science Talk, Career Talks, Roche site tour, and a dinner.
+* **Lunch**: We go to lunch together. The lunch is sponsored by the Roche Pharmaceutical Sciences (PS) Predictive Modeling and Data Analytics (PMDA) chapter
+* **Social events**: Social events include Science Talk, Career Talks, Roche site tour, and a dinner
