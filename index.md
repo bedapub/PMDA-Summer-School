@@ -1,7 +1,6 @@
 ## Predictive Modeling and Data Analytics
 
-<img src="![image](https://user-images.githubusercontent.com/110609959/183906530-3bf29ba1-eacb-4ae3-9212-11199e0329b6.png)
-" align="right" width="500" height="300">
+<img src="![image](https://user-images.githubusercontent.com/110609959/183907948-6bcf448e-c698-4fdf-aeb1-f7500f285690.png)" align="right" width="500" height="300">
 
 ### Introduction
 
