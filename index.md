@@ -17,7 +17,7 @@ We welcome **Ph.D. students and outstanding master students** of University Base
 
 To apply, please submit both a Motivation Letter and a CV. For registration purposes the motivation letter and CV must be combined in one document and uploaded via the registration form accessed using the Register Now link below.
 
-(https://careers.roche.com/global/en/event/62691fe7c9e77c000927ec38/Predictive-Modeling-and-Data-Analysis-Summer-School)
+[](https://careers.roche.com/global/en/event/62691fe7c9e77c000927ec38/Predictive-Modeling-and-Data-Analysis-Summer-School)
 
 
 ### Important information
