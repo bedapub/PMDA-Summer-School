@@ -1,5 +1,8 @@
 ## Predictive Modeling and Data Analytics
 
+![Analysis image](https://freedesignfile.com/398331-using-computer-data-analysis-stock-photo-02/)
+
+
 ### Introduction
 
 The **Predictive Modeling and Data Analytics** (PMDA) chapter is a multidisciplinary team in the department of Pharmaceutical Sciences at Roche. The chapter develops and applies data analysis, visualization, and modeling tools for pharma research and early development. To introduce students to applied predictive modeling and data analysis in drug discovery and development, the PMDA chapter hosts a one-week summer school in Basel.
