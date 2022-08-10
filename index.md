@@ -1,6 +1,6 @@
 ## Predictive Modeling and Data Analytics
 
-![Analysis image](https://freedesignfile.com/398331-using-computer-data-analysis-stock-photo-02/)
+![image](https://user-images.githubusercontent.com/110609959/183846080-0a6a1d1b-b1c1-40b6-9c67-464617b83a58.png)
 
 
 ### Introduction
