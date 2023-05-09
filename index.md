@@ -1,3 +1,8 @@
+---
+layout: default
+title: PMDA Summer School
+---
+
 ## Predictive Modeling and Data Analytics
 
 <img src="https://user-images.githubusercontent.com/110609959/183912411-bd50946e-06cc-403e-bc7a-e51b963a6fe5.png" align="right" width="300" high="100">
