@@ -1,9 +1,12 @@
 ---
+layout: default
 title: PMDA Summer School
 ---
-<link href="./assets/style.scss" rel="stylesheet">
 
-<img src="../assets/Roche_Logo_800px_Blue_RGB_Roche_Logo_RGB.png" class="roche-logo">
+<div style="display: flex; justify-content: start;">
+    <img src="../assets/Roche_Logo_800px_Blue_RGB_Roche_Logo_RGB.png" style="width: 120px !important; border: 0 !important; 
+     box-shadow: none !important; padding: 0;">
+</div>
 
 ## Predictive Modeling and Data Analytics
 
