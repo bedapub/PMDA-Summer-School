@@ -1,3 +1,13 @@
+---
+layout: default
+title: PMDA Summer School
+---
+
+<div style="display: flex; justify-content: start;">
+    <img src="../assets/Roche_Logo_800px_Blue_RGB_Roche_Logo_RGB.png" style="width: 120px !important; border: 0 !important; 
+     box-shadow: none !important; padding: 0;">
+</div>
+
 ## Predictive Modeling and Data Analytics
 
 <img src="https://user-images.githubusercontent.com/110609959/183912411-bd50946e-06cc-403e-bc7a-e51b963a6fe5.png" align="right" width="300" high="100">
