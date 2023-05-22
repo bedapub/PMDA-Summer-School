@@ -4,7 +4,7 @@ title: PMDA Summer School
 ---
 
 <div style="display: flex; justify-content: start;">
-    <img src="../assets/Roche_Logo_800px_Blue_RGB_Roche_Logo_RGB.png" style="width: 120px !important; border: 0 !important; 
+    <img src="./assets/Roche_Logo_800px_Blue_RGB_Roche_Logo_RGB.png" style="width: 120px !important; border: 0 !important; 
      box-shadow: none !important; padding: 0;">
 </div>
 
