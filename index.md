@@ -8,7 +8,7 @@ title: PMDA Summer School
      box-shadow: none !important; padding: 0;">
 </div>
 
-## Predictive Modeling and Data Analytics
+## Roche PMDA (Predictive Modeling and Data Analytics) Summer School 2023
 
 <img src="https://user-images.githubusercontent.com/110609959/183912411-bd50946e-06cc-403e-bc7a-e51b963a6fe5.png" align="right" width="300" high="100">
 
@@ -24,16 +24,20 @@ The topic of the PMDA summer school 2022 is **single-cell gene expression** in d
 
 We welcome **Ph.D. students and outstanding master students** of University Basel and ETH D-BSSE with backgrounds in mathematics, statistics, data science, computing sciences, physics, biology and relevant backgrounds to apply before June 1st. During the summer school you will be part of one of the three teams and work together with other participants with different knowledge and backgrounds to create algorithms, develop metrics, and develop visualization techniques. You will discuss and work with industrial research scientists to visualize, quantify, and interpret specificity, variability, and uncertainty of cell-type specific gene expression and co-expression. Via this hands-on project, you will have the opportunity to experience real research questions in an industrial setting.
 
-To apply, please submit both a Motivation Letter and a CV. For registration purposes the motivation letter and CV must be combined in one document and uploaded via the registration form accessed using the Register Now link below.
+To apply, please use the link below. You need a Google account to register. During the application, you will need to submit a CV and a motivation letter as two PDF files.
 
-[Registration](https://careers.roche.com/global/en/event/62691fe7c9e77c000927ec38/Predictive-Modeling-and-Data-Analysis-Summer-School)
+[Registration](https://forms.gle/JNE8pEoJE2PFoc4k7)
+
+
+We will inform you about the application outcome no later than Friday, July the 7th.
 
 ### Important information
 
-* **Date**: 8th-12th of August, 2022
-* **Location**: Roche Innovation Center Basel, F.Hoffmann La-Roche Ltd.
-* **Daily working time**: 8:30-17:30 with a lunch break 
+* **Event**: Roche PMDA Summer School 2023
+* **Date**: 7th-11th of August, 2023
+* **Location**: Roche Innovation Center Basel, Grenzacherstrasse 124, F.Hoffmann La-Roche Ltd.
+* **Topic**: Computational toxicology and safety (more details follow)
+* **Daily working time**: 8:30-17:30 with a lunch break
 * **Working language**: English
-* **Insurance and accomodation**: Insurance and accomodation is the responsibility of the participants
-* **Lunch**: We go to lunch together. The lunch is sponsored by the Roche Pharmaceutical Sciences (PS) Predictive Modeling and Data Analytics (PMDA) chapter
-* **Social events**: Social events include a Science Talk, Career Talks, a Roche site tour, and a dinner
+* **Cost**: Free. Insurance and accommodation is the responsibility of the participants.
+* **Application link**: https://forms.gle/JNE8pEoJE2PFoc4k7
