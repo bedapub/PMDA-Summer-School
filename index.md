@@ -61,3 +61,4 @@ two PDF files. You can also provide up to two contact persons as your reference 
 Please contact jitao_david.zhang (at) roche (dot) com in case of
 questions.
 
+<a href="assets/PDF/2023-2nd-Roche-PMDA-summer-school-A4.pdf">Essential information in one page</a>
