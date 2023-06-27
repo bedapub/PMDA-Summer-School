@@ -27,15 +27,15 @@ required)](https://forms.gle/JNE8pEoJE2PFoc4k7)
 ### Introduction
 
 Roche PMDA Summer School is a one-week in-person event for PhD students
-interested in learning and applying predictive modeling and data analytics to
+interested in learning and applying predictive modelling and data analytics to
 problems in drug discovery and development. It will take place between August
 7th and 11th in Basel at the Roche campus.
 
-The summer school is organized and sponsored by the **Predictive Modeling and
+The summer school is organised and sponsored by the **Predictive Modeling and
 Data Analytics** (PMDA) chapter, a multidisciplinary team in the department of
 Pharmaceutical Sciences, residing in the Pharma Research and Early Development
 division of F. Hoffmann-La Roche Ltd. The chapter develops and applies data
-analysis, visualization, and modeling tools for pharmacokinetic and
+analysis, visualisation, and modelling tools for pharmacokinetic and
 pharmacodynamic studies, biomarkers, and toxicology and safety.
 
 ### Topic
