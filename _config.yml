@@ -3,6 +3,7 @@ plugins:
 - jekyll-remote-theme #
 
 title: "Roche PMDA Summer School 2023"
+logo: /assets/2023-06-PMDA-summer-school-QR.png
 description: "Hand-on Modeling and Analytics in Drug Discovery For a Summer Week"
 
 show_downloads: false

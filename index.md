@@ -21,11 +21,6 @@ participants.*
 * **Application link**: [Registration via Google Form (Google account
 required)](https://forms.gle/JNE8pEoJE2PFoc4k7) by July 7th, 2023.
 
-<div style="display: flex; justify-content: start;">
-    <img src="assets/2023-06-PMDA-summer-school-QR.png"
-    style="display: block; margin-left: auto; margin-right: auto; width: 35%">
-</div>
-
 ### Introduction
 
 Roche PMDA Summer School is a one-week in-person event for PhD students
