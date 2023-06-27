@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme #
 
 title: "Roche PMDA Summer School 2023"
-description: "Join us and work on predictive modeling and data analytics in drug discovery for a summer week"
+description: "Hand-on Modeling and Analytics in Drug Discovery For a Summer Week"
 
 show_downloads: false
 
