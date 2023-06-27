@@ -5,6 +5,23 @@ title: PMDA Summer School
 
 ## Roche Predictive Modeling and Data Analytics Summer School 2023
 
+### Important information in a nutshell
+
+* **Event**: Roche PMDA Summer School 2023
+* **Date**: 7th-11th of August, 2023
+* **Location**: Roche Innovation Center Basel, Grenzacherstrasse 124, F.Hoffmann
+La-Roche Ltd.
+* **Participation**: In-person only, no virtual option.
+* **Eligibility**: PhD or exceptional master students enrolled in a Swiss
+university
+* **Topic**: Computational toxicology (more details follow)
+* **Daily working time**: 8:30-17:30 with a lunch break
+* **Working language**: English
+* **Cost**: Free. Insurance and accommodation is the responsibility of the
+participants.
+* **Application link**: [Registration via Google Form (Google account
+required)](https://forms.gle/JNE8pEoJE2PFoc4k7)
+
 ### Introduction
 
 Roche PMDA Summer School is a one-week in-person event for PhD students
@@ -37,17 +54,8 @@ To apply, please use the link below. You need a Google account to register.
 During the application, you will need to submit a CV and a motivation letter as
 two PDF files.
 
-[Registration](https://forms.gle/JNE8pEoJE2PFoc4k7)
+[Link for registration (Google account required)](https://forms.gle/JNE8pEoJE2PFoc4k7)
 
+### Contact in case of questions
 
-### Important information
-
-* **Event**: Roche PMDA Summer School 2023
-* **Date**: 7th-11th of August, 2023
-* **Location**: Roche Innovation Center Basel, Grenzacherstrasse 124, F.Hoffmann La-Roche Ltd.
-* **Participation**: In-person only, no virtual option.
-* **Topic**: Computational toxicology (more details follow)
-* **Daily working time**: 8:30-17:30 with a lunch break
-* **Working language**: English
-* **Cost**: Free. Insurance and accommodation is the responsibility of the participants.
-* **Application link**: [Registration via Google Form (Google account required)](https://forms.gle/JNE8pEoJE2PFoc4k7)
+Please contact jitao_david.zhang (at) roche (dot) com in case of questions.
