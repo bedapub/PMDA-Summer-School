@@ -10,17 +10,21 @@ title: PMDA Summer School
 * **Event**: Roche PMDA Summer School 2023
 * **Date**: 7th-11th of August, 2023
 * **Location**: Roche Innovation Center Basel, Grenzacherstrasse 124, F.Hoffmann
-La-Roche Ltd.
-* **Participation**: In-person only, no virtual option.
+La-Roche Ltd. *In-person only, no virtual option.*
 * **Eligibility**: PhD or exceptional master students enrolled in a Swiss
 university
 * **Topic**: Computational toxicology (more details follow)
 * **Daily working time**: 8:30-17:30 with a lunch break
 * **Working language**: English
-* **Cost**: Free. Insurance and accommodation is the responsibility of the
-participants.
+* **Cost**: Free. *Insurance and accommodation is the responsibility of the
+participants.*
 * **Application link**: [Registration via Google Form (Google account
-required)](https://forms.gle/JNE8pEoJE2PFoc4k7)
+required)](https://forms.gle/JNE8pEoJE2PFoc4k7) by July 7th, 2023.
+
+<div style="display: flex; justify-content: start;">
+    <img src="assets/2023-06-PMDA-summer-school-QR.png"
+    style="display: block; margin-left: auto; margin-right: auto; width: 35%">
+</div>
 
 ### Introduction
 
