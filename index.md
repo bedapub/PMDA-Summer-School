@@ -8,7 +8,7 @@ title: PMDA Summer School
 ### Important information in a nutshell
 
 * **Event**: Roche PMDA Summer School 2024
-* **Date**: 5th-9th of August, 2023
+* **Date**: 5th-9th of August, 2024
 * **Location**: Roche Innovation Center Basel, Grenzacherstrasse 124, F.Hoffmann
 La-Roche Ltd. *In-person only, no virtual option*
 * **Eligibility**: PhD or exceptional master students with relevant background
