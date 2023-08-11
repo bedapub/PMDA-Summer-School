@@ -60,4 +60,4 @@ Link of Registration will be determined as of 2024.
 Please contact jitao_david.zhang (at) roche (dot) com in case of
 questions.
 
-<a href="assets/2024-2nd-Roche-PMDA-summer-school-A4.pdf">Essential information in one page</a>
+<a href="assets/2024-3rd-Roche-PMDA-summer-school-A4.pdf">Essential information in one page</a>
