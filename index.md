@@ -18,8 +18,7 @@ enrolled in a Swiss university
 * **Working language**: English
 * **Cost**: Free. *Insurance and accommodation is the responsibility of the
 participants.*
-* **Timeline**: Registration is open until July 7th. Decisions will be shared by
-July 15th.
+* **Timeline**: Registration is open as of 2024. 
 * **Registration**: 
 * **Contact**: jitao_david.zhang (at) roche (dot) com
 
@@ -39,17 +38,15 @@ pharmacodynamic studies, biomarkers, and toxicology and safety.
 
 ### Topic
 
-The topic of the PMDA summer school 2024 is **computational toxicology** in drug
-discovery. The participants will work in teams to analyze and model data and
-integrate prior knowledge, with the goal of improving our understanding of
-safety profiles of drug candidates. More details shall follow.
+The topic of the PMDA summer school 2024 will be announced in due time.
+The participants will work in teams to analyze and model data and
+integrate prior knowledge. More details shall follow.
 
 ### Application
 
 We welcome **Ph.D. students and outstanding master students** of Swiss
 universities with backgrounds in mathematics, statistics, data science,
-computing sciences, physics, biology and relevant backgrounds to apply before
-July 7th. Decision will be shared by July 15th.
+computing sciences, physics, biology and relevant backgrounds to apply.
 
 To apply, please use the link below. You need a Google account to register.
 During the application, you will need to submit a CV and a motivation letter as
