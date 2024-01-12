@@ -15,7 +15,7 @@ title: PMDA Summer School
 * **Daily working time**: 8:30-17:30 with a lunch break
 * **Working language**: English
 * **Cost**: Free. *Insurance and accommodation is the responsibility of the participants.*
-* **Timeline**: Registration is open as of 2024.
+* **Timeline**: Registration will be opened between March and May 2024. Please stay tuned.
 * **Registration**: Information shall follow.
 * **Contact**: jitao_david.zhang (at) roche (dot) com
 
