@@ -16,7 +16,7 @@ title: PMDA Summer CodeWeek
 * **Working language**: English
 * **Cost**: Free. *Insurance and accommodation is the responsibility of the participants.*
 * **Timeline**: Registration is open between 15th of May and 14th of June 2024. Please stay tuned.
-* **Registration**: [Please use this Google Form to register for PMDA Summer CodeWeek 2024](https://forms.gle/t3B5kqWj28d43HYs6).
+* **Registration**: [Please use this Google Form to register for PMDA Summer CodeWeek 2024](https://forms.gle/cdpyeTXkS7n2S1ZM6).
 * **Contact**: jitao_david.zhang (at) roche (dot) com
 
 ### Introduction
