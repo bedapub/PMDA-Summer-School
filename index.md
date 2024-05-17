@@ -40,4 +40,4 @@ The applicants are expected to bring experience in data analysis and modelling (
 Please contact jitao_david.zhang (at) roche (dot) com in case of
 questions.
 
-<a href="assets/2024-3rd-Roche-PMDA-summer-hackathon-A4.pdf">Essential information in one page</a>
+<a href="assets/2024-3rd-Roche-PMDA-Summer-School-A4.pdf">Essential information in one page</a>
