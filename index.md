@@ -1,13 +1,13 @@
 ---
 layout: default
-title: PMDA Summer Hackathon
+title: PMDA Summer CodeFest
 ---
 
-## Roche Predictive Modeling and Data Analytics Summer Hackathon 2024
+## Roche Predictive Modeling and Data Analytics Summer CodeFest 2024
 
 ### Important information in a nutshell
 
-* **Event**: Roche PMDA Summer Hackathon 2024
+* **Event**: Roche PMDA Summer CodeFest 2024
 * **Date**: 5th-9th of August, 2024
 * **Location**: Roche Innovation Center Basel, Grenzacherstrasse 124, F.Hoffmann La-Roche Ltd. *In-person only, no virtual option*
 * **Eligibility**: PhD students with relevant background currently enrolled in a Swiss university.
@@ -16,18 +16,18 @@ title: PMDA Summer Hackathon
 * **Working language**: English
 * **Cost**: Free. *Insurance and accommodation is the responsibility of the participants.*
 * **Timeline**: Registration is open between 15th of May and 14th of June 2024. Please stay tuned.
-* **Registration**: [Please use this Google Form to register for PMDA Summer Hackathon 2024](https://forms.gle/t3B5kqWj28d43HYs6).
+* **Registration**: [Please use this Google Form to register for PMDA Summer CodeFest 2024](https://forms.gle/t3B5kqWj28d43HYs6).
 * **Contact**: jitao_david.zhang (at) roche (dot) com
 
 ### Introduction
 
-Roche PMDA Summer Hackathon (previously known as Roche PMDA Summer SChool) is a one-week in-person event for PhD students interested in learning and applying predictive modelling and data analytics to problems in drug discovery and development. It will take place between August 5th and 9th in Basel at the Roche campus.
+Roche PMDA Summer CodeFest (previously known as Roche PMDA Summer School) is a one-week in-person event for PhD students interested in learning and applying predictive modelling and data analytics to problems in drug discovery and development. It will take place between August 5th and 9th in Basel at the Roche campus.
 
-The event is organised and sponsored by the **Predictive Modeling and Data Analytics** (PMDA) chapter, a multidisciplinary team in the department of Pharmaceutical Sciences, residing in the Pharma Research and Early Development division of F. Hoffmann-La Roche Ltd. The chapter develops and applies data analysis, visualisation, and modelling tools for pharmacokinetic and pharmacodynamic studies, biomarkers, and toxicology and safety.
+The event is organized and sponsored by the **Predictive Modeling and Data Analytics** (PMDA) chapter, a multidisciplinary team in the department of Pharmaceutical Sciences, residing in the Pharma Research and Early Development division of F. Hoffmann-La Roche Ltd. The chapter develops and applies data analysis, visualisation, and modelling tools for pharmacokinetic and pharmacodynamic studies, biomarkers, and toxicology and safety.
 
 ### Topic
 
-The topic of the PMDA summer hackathon 2024 will be *AI and Machine Learning*. The participants will work in teams to analyze and model data and integrate prior knowledge. More details shall follow.
+The topic of the PMDA Summer CodeFest 2024 will be *AI and Machine Learning*. The participants will work in teams to analyze and model data and integrate prior knowledge. More details shall follow.
 
 ### Application
 
