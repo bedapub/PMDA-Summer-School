@@ -5,7 +5,18 @@ title: PMDA Summer School
 
 ## Roche Predictive Modeling and Data Analytics Summer School 2024
 
+### Table of Contents
+
+    * [Important information in a nutshell](#important-information-in-a-nutshell)
+    * [Introduction](#introduction)
+    * [Topic](#topic)
+    * [Application](#application)
+
+<!-- Created by https://github.com/ekalinin/github-markdown-toc -->
+
 ### Important information in a nutshell
+
+<a href="assets/2024-3rd-Roche-PMDA-Summer-School-A4.pdf">Essential information in one A4 page</a>
 
 * **Event**: Roche PMDA Summer School 2024
 * **Date**: 5th-9th of August, 2024
@@ -40,4 +51,3 @@ The applicants are expected to bring experience in data analysis and modelling (
 Please contact jitao_david.zhang (at) roche (dot) com in case of
 questions.
 
-<a href="assets/2024-3rd-Roche-PMDA-Summer-School-A4.pdf">Essential information in one page</a>
