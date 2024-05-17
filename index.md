@@ -1,13 +1,13 @@
 ---
 layout: default
-title: PMDA Summer CodeWeek
+title: PMDA Summer School
 ---
 
-## Roche Predictive Modeling and Data Analytics Summer CodeWeek 2024
+## Roche Predictive Modeling and Data Analytics Summer School 2024
 
 ### Important information in a nutshell
 
-* **Event**: Roche PMDA Summer CodeWeek 2024
+* **Event**: Roche PMDA Summer School 2024
 * **Date**: 5th-9th of August, 2024
 * **Location**: Roche Innovation Center Basel, Grenzacherstrasse 124, F.Hoffmann La-Roche Ltd. *In-person only, no virtual option*
 * **Eligibility**: PhD students with relevant background currently enrolled in a Swiss university.
@@ -16,18 +16,18 @@ title: PMDA Summer CodeWeek
 * **Working language**: English
 * **Cost**: Free. *Insurance and accommodation is the responsibility of the participants.*
 * **Timeline**: Registration is open between 15th of May and 14th of June 2024. Please stay tuned.
-* **Registration**: [Please use this Google Form to register for PMDA Summer CodeWeek 2024](https://forms.gle/cdpyeTXkS7n2S1ZM6).
+* **Registration**: [Please use this Google Form to register for PMDA Summer School 2024](https://forms.gle/cdpyeTXkS7n2S1ZM6).
 * **Contact**: jitao_david.zhang (at) roche (dot) com
 
 ### Introduction
 
-Roche PMDA Summer CodeWeek is a one-week in-person event for PhD students to apply their data analysis and modelling skills to address problems in drug discovery and development.
+Roche PMDA Summer School is a one-week in-person event for PhD students to apply their data analysis and modelling skills to address problems in drug discovery and development.
 
 The event is organized and sponsored by the **Predictive Modeling and Data Analytics** (PMDA) chapter, a multidisciplinary team in the department of Pharmaceutical Sciences, residing in the Pharma Research and Early Development division of F. Hoffmann-La Roche Ltd. The chapter develops and applies data analysis, visualisation, and modelling tools for pharmacokinetic and pharmacodynamic studies, biomarkers, and toxicology and safety.
 
 ### Topic
 
-The topic of the PMDA Summer CodeWeek 2024 will be *Predicting protein turnover in vitro and in vivo*. The participants will work in teams to analyze and model data and integrate prior knowledge in order to predict protein turnover, which plays an important role in several aspects of drug discovery, as well as to improve our understanding of the biological process. More details shall follow.
+The topic of the PMDA Summer School 2024 will be *Predicting protein turnover in vitro and in vivo*. The participants will work in teams to analyze and model data and integrate prior knowledge in order to predict protein turnover, which plays an important role in several aspects of drug discovery, as well as to improve our understanding of the biological process. More details shall follow.
 
 ### Application
 
