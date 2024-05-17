@@ -7,10 +7,10 @@ title: PMDA Summer School
 
 ### Table of Contents
 
-    * [Important information in a nutshell](#important-information-in-a-nutshell)
-    * [Introduction](#introduction)
-    * [Topic](#topic)
-    * [Application](#application)
+* [Important information in a nutshell](#important-information-in-a-nutshell)
+* [Introduction](#introduction)
+* [Topic](#topic)
+* [Application](#application)
 
 <!-- Created by https://github.com/ekalinin/github-markdown-toc -->
 
