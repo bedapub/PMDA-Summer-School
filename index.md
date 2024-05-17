@@ -5,6 +5,8 @@ title: PMDA Summer School
 
 ## Roche Predictive Modeling and Data Analytics Summer School 2024
 
+t <a href="assets/2024-3rd-Roche-PMDA-Summer-School-A4.pdf">Essential information in one A4 page</a>
+
 ### Table of Contents
 
 * [Important information in a nutshell](#important-information-in-a-nutshell)
@@ -15,8 +17,6 @@ title: PMDA Summer School
 <!-- Created by https://github.com/ekalinin/github-markdown-toc -->
 
 ### Important information in a nutshell
-
-<a href="assets/2024-3rd-Roche-PMDA-Summer-School-A4.pdf">Essential information in one A4 page</a>
 
 * **Event**: Roche PMDA Summer School 2024
 * **Date**: 5th-9th of August, 2024
