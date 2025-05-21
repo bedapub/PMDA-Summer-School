@@ -35,7 +35,7 @@ The decision will be shortly announced after that.
 
 Roche PMDA Summer School is a one-week in-person event for PhD students to apply their data analysis and modelling skills to address problems in drug discovery and development.
 
-The event is organized and sponsored by the **Data and Analytics** department, part of the Computational Sciences Center of Excellence of Roche, and the **Predictive Modeling** (PM) chapter in the department of Pharmaceutical Sciences, residing in the Pharma Research and Early Development division of F. Hoffmann-La Roche Ltd. Both teams develop and apply data analysis, and predictive modelling tools for pharmacokinetic and pharmacodynamic studies, biomarkers, and toxicology and safety.
+The event is organized and sponsored by the **Data and Analytics** department, part of the Computational Sciences Center of Excellence of Roche, and the **Predictive Modeling** (PM) chapter in the department of Pharmaceutical Sciences, residing in the Pharma Research and Early Development division of F. Hoffmann-La Roche Ltd. Both teams develop and apply data analysis and predictive modelling tools to support the whole value chain of drug discovery from target assessment to product launch.
 
 ### Topic
 
@@ -43,7 +43,7 @@ The topic of the PMDA Summer School 2025 will be *Leveraging protein abundance f
 
 ### Application
 
-We welcome **Ph.D. students** of Swiss universities with backgrounds in mathematics, statistics, data science, computing sciences, machine learning and AI, physics, chemistry, biology and relevant backgrounds to apply. Exceptional applications from non-Swiss universities or institutes may be considered in a case-by-case manner if there are remaining positions.
+We welcome **Ph.D. students** of Swiss universities with backgrounds in mathematics, statistics, data science, computing sciences, machine learning and AI, physics, chemistry, biology and relevant backgrounds to apply. Exceptional applications from master students with outstanding qualifications, as well as from PhD or master students enrolled in EU or UK universities or institutes may be considered in a case-by-case manner.
 
 The applicants are expected to bring experience in data analysis and modelling (for instance statistical modeling, machine learning and artificial intelligence, mechanistic modeling, or causal inference), as well as enthusiasm in applying the skills to solve real-world problems in drug discovery.
 
