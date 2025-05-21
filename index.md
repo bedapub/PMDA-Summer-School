@@ -28,7 +28,7 @@ In a hurry? Here is <a href="assets/2025-4th-Roche-PMDA-Summer-School-A4.pdf">th
 * **Cost**: Free. *Insurance and accommodation is the responsibility of the participants.*
 * **Timeline**: Registration is open between 21st of May and 13th of June 2025.
 The decision will be shortly announced after that.
-* **Registration**: [Please use this Google Form to register for PMDA Summer School 2025](https://forms.gle/trhLamZExbSDXMAL8).
+* **Registration**: [Please use this Google Form to register for PMDA Summer School 2025](https://forms.gle/trhLamZExbSDXMAL8) (a Google account is required for registration).
 * **Contact**: jitao_david.zhang (at) roche (dot) com
 
 ### Introduction
