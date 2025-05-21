@@ -43,7 +43,9 @@ The topic of the PMDA Summer School 2025 will be *Leveraging protein abundance f
 
 ### Application
 
-We welcome **Ph.D. students** of Swiss universities with backgrounds in mathematics, statistics, data science, computing sciences, machine learning and AI, physics, chemistry, biology and relevant backgrounds to apply. Exceptional applications from master students with outstanding qualifications, as well as from PhD or master students enrolled in EU or UK universities or institutes may be considered in a case-by-case manner.
+We welcome **Ph.D. students** of Swiss universities with backgrounds in mathematics, statistics, data science, computing sciences, machine learning and AI, physics, chemistry, biology and relevant backgrounds to apply.
+
+Exceptional applications from master students with outstanding qualifications, as well as from PhD or master students enrolled in EU or UK universities or institutes may be considered in a case-by-case manner.
 
 The applicants are expected to bring experience in data analysis and modelling (for instance statistical modeling, machine learning and artificial intelligence, mechanistic modeling, or causal inference), as well as enthusiasm in applying the skills to solve real-world problems in drug discovery.
 
