@@ -26,7 +26,7 @@ In a hurry? Here is <a href="assets/2025-4th-Roche-PMDA-Summer-School-A4.pdf">th
 * **Daily working time**: 8:30-17:30 with a lunch break
 * **Working language**: English
 * **Cost**: Free. *Insurance and accommodation is the responsibility of the participants.*
-* **Timeline**: Registration is open between June 1st and 20th 2026. The decision will be announced shortly after that, before July 5th, 2026.
+* **Timeline**: Registration is open between June 1st and 20th 2026. The decision will be announced shortly after, before July 5th, 2026.
 * **Registration**: [Please use this Google Form to register for PMDA Summer School 2025](https://forms.gle/trhLamZExbSDXMAL8) (a Google account is required for registration).
 * **Contact**: jitao_david.zhang (at) roche (dot) com
 
