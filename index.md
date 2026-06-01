@@ -22,7 +22,7 @@ In a hurry? Here is <a href="assets/2026-5th-Roche-Computational-Sciences-Summer
 * **Date**: 3rd-7th of August, 2026
 * **Location**: Roche Innovation Center Basel, Grenzacherstrasse 124, F.Hoffmann La-Roche Ltd. *In-person only, no virtual option*
 * **Eligibility**: PhD students or master's students with exceptional qualifications and relevant backgrounds enrolled in a Swiss university are eligible to apply. Students from EU or UK universities may be considered if there are remaining positions.
-* **Topic**: Systematic annotation of chemical probes to enhance phenotypic drug discovery (more details follow)
+* **Topic**: Systematic annotation of chemical probes to enhance phenotypic drug discovery
 * **Daily working time**: 8:30-17:30 with a lunch break
 * **Working language**: English
 * **Cost**: Free. *Insurance and accommodation is the responsibility of the participants.*
