@@ -27,7 +27,7 @@ In a hurry? Here is <a href="assets/2026-5th-Roche-Computational-Sciences-Summer
 * **Working language**: English
 * **Cost**: Free. *Insurance and accommodation is the responsibility of the participants.*
 * **Timeline**: Registration is open between June 1st (Monday) and June 21th (Sunday) 2026. The decision will be announced shortly after, before July 5th (Sunday) 2026.
-* **Registration**: [Please use this Google Form to register for Roche Computational Sciences Summer School 2026](https://forms.gle/Fm9GDtVEfHAW2GmH7) (a Google account is required for registration).
+* **Registration**: [Please use this Google Form to register for Roche Computational Sciences Summer School 2026](https://docs.google.com/forms/d/e/1FAIpQLSe1L-06iN-gsxHclnthsduBHrnw6QyEgAaQvo75O28YHtlh8Q/viewform?usp=dialog) (a Google account is required for registration).
 * **Contact**: jitao_david.zhang (at) roche (dot) com
 
 ### Introduction
