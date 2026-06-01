@@ -19,7 +19,7 @@ In a hurry? Here is <a href="assets/2025-4th-Roche-PMDA-Summer-School-A4.pdf">th
 ### Important information in a nutshell
 
 * **Event**: Roche Computational Sciences Summer School 2026
-* **Date**: 3th-7th of August, 2026
+* **Date**: 3rd-7th of August, 2026
 * **Location**: Roche Innovation Center Basel, Grenzacherstrasse 124, F.Hoffmann La-Roche Ltd. *In-person only, no virtual option*
 * **Eligibility**: PhD students or master's students with exceptional qualifications and relevant backgrounds enrolled in a Swiss university are eligible to apply. Students from EU or UK universities may be considered if there are remaining positions.
 * **Topic**: Systematic annotation of chemical probes to enhance phenotypic drug discovery (more details follow)
