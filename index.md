@@ -26,8 +26,8 @@ In a hurry? Here is <a href="assets/2025-4th-Roche-PMDA-Summer-School-A4.pdf">th
 * **Daily working time**: 8:30-17:30 with a lunch break
 * **Working language**: English
 * **Cost**: Free. *Insurance and accommodation is the responsibility of the participants.*
-* **Timeline**: Registration is open between June 1st and 20th 2026. The decision will be announced shortly after, before July 5th, 2026.
-* **Registration**: [Please use this Google Form to register for PMDA Summer School 2025](https://forms.gle/trhLamZExbSDXMAL8) (a Google account is required for registration).
+* **Timeline**: Registration is open between June 1st (Monday) and June 21th (Sunday) 2026. The decision will be announced shortly after, before July 5th (Sunday) 2026.
+* **Registration**: [Please use this Google Form to register for PMDA Summer School 2026](https://forms.gle/trhLamZExbSDXMAL8) (a Google account is required for registration).
 * **Contact**: jitao_david.zhang (at) roche (dot) com
 
 ### Introduction
@@ -50,7 +50,7 @@ If remaining positions are available, applications from PhD students enrolled in
 
 The applicants are expected to bring experience in programming (ideally in R and/or Python), data analysis and modelling (for instance statistical modeling, machine learning and artificial intelligence, mechanistic modeling, or causal inference), as well as enthusiasm in applying the skills to solve real-world problems in drug discovery.
 
-[Use this Google Form to apply until Sunday, June 21th, 2025](https://forms.gle/Fm9GDtVEfHAW2GmH7i). To register, you need a Google account. During the application, you will need to submit an cover letter (one A4 page PDF file), your current CV (PDF file), and two contact persons as your reference.
+[Use this Google Form to apply until Sunday, June 21th, 2026](https://forms.gle/Fm9GDtVEfHAW2GmH7i). To register, you need a Google account. During the application, you will need to submit an cover letter (one A4 page PDF file), your current CV (PDF file), and two contact persons as your reference.
 
 Please contact jitao_david.zhang (at) roche (dot) com in case of questions.
 
