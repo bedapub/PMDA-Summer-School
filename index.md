@@ -5,7 +5,7 @@ title: Roche Computational Sciences Summer School
 
 ## Roche Computational Sciences Summer School 2026
 
-In a hurry? Here is <a href="assets/2025-4th-Roche-PMDA-Summer-School-A4.pdf">the essential information in one A4 page</a>.
+In a hurry? Here is <a href="assets/2026-5th-Roche-Computational-Sciences-Summer-School-A4.pdf">the essential information in one A4 page</a>.
 
 ### Table of Contents
 
