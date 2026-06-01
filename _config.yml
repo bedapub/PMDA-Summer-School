@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme #
 
 title: "Roche Computational Sciences Summer School 2026"
-description: "Hand-on Computational Research in Drug Discovery For a Summer Week"
+description: "A Summer Week of Hand-on Computational Research in Drug Discovery"
 
 show_downloads: false
 
