@@ -42,7 +42,7 @@ The event is organized and sponsored by the **Computational Biology and Medicine
 
 The topic of the Roche Computational Sciences Summer School 2026 will be *Systematic annotation of chemical probes to enhance phenotypic drug discovery*.
 
-We will offer interactive workshops to introduce teams the background information, to collect and answer any questions, and to distribute the tasks. The participants will work in interdisciplinary teams to identify and annotate chemical probes in order to empower phenotypic drug discovery approaches. Finally, the teams will report their learnings and receive feedback. The tasks include
+We will offer interactive workshops to introduce the background information, to collect and answer any questions, and to distribute the tasks. The participants will work in interdisciplinary teams to identify and annotate chemical probes in order to empower phenotypic drug discovery approaches. Finally, the teams will report their learnings and receive feedback. The tasks include
 
 1. Characterization of the druggable genome and proteoform
 2. Expanding Roche's Pathway Annotated Chemical Ensemble (PACE) library with new chemical probes
