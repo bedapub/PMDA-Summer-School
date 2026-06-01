@@ -1,9 +1,9 @@
 ---
 layout: default
-title: PMDA Summer School
+title: Roche Computational Sciences Summer School
 ---
 
-## Roche Predictive Modeling and Data Analytics Summer School 2025
+## Roche Computational Sciences Summer School 2026
 
 In a hurry? Here is <a href="assets/2025-4th-Roche-PMDA-Summer-School-A4.pdf">the essential information in one A4 page</a>.
 
@@ -18,38 +18,39 @@ In a hurry? Here is <a href="assets/2025-4th-Roche-PMDA-Summer-School-A4.pdf">th
 
 ### Important information in a nutshell
 
-* **Event**: Roche PMDA Summer School 2025
-* **Date**: 4th-8th of August, 2025
+* **Event**: Roche Computational Sciences Summer School 2026
+* **Date**: 3th-7th of August, 2026
 * **Location**: Roche Innovation Center Basel, Grenzacherstrasse 124, F.Hoffmann La-Roche Ltd. *In-person only, no virtual option*
 * **Eligibility**: PhD students or master's students with exceptional qualifications and relevant backgrounds enrolled in a Swiss university are eligible to apply. Students from EU or UK universities may be considered if there are remaining positions.
-* **Topic**: Leveraging protein abundance for drug discovery (more details follow)
+* **Topic**: Systematic annotation of chemical probes to enhance phenotypic drug discovery (more details follow)
 * **Daily working time**: 8:30-17:30 with a lunch break
 * **Working language**: English
 * **Cost**: Free. *Insurance and accommodation is the responsibility of the participants.*
-* **Timeline**: Registration is open between 21st of May and 13th of June 2025.
-The decision will be shortly announced after that.
+* **Timeline**: Registration is open between June 1st and 20th 2026. The decision will be announced shortly after that, before July 5th, 2026.
 * **Registration**: [Please use this Google Form to register for PMDA Summer School 2025](https://forms.gle/trhLamZExbSDXMAL8) (a Google account is required for registration).
 * **Contact**: jitao_david.zhang (at) roche (dot) com
 
 ### Introduction
 
-Roche PMDA Summer School is a one-week in-person event for PhD students to apply their data analysis and modelling skills to address problems in drug discovery and development.
+Roche Computational Sciences Summer School is a one-week in-person event for PhD students to apply their domain knowledge and computational and data analysis skills to address problems in drug discovery and development. The event was previously (2022-2025) known as the Roche PMDA (Predictive Modeling and Data Analytics) Summer School.
 
-The event is organized and sponsored by the **Data and Analytics** department, part of the Computational Sciences Center of Excellence of Roche, and the **Predictive Modeling** (PM) chapter in the department of Pharmaceutical Sciences, residing in the Pharma Research and Early Development division of F. Hoffmann-La Roche Ltd. Both teams develop and apply data analysis and predictive modelling tools to support the whole value chain of drug discovery from target assessment to product launch.
+The event includes interactive workshops (~30%), team work (~60%), and discussions and feedback (~10%). The goals are to introduce industrial research problems to PhD students, to explore novel ways to address these problems, and to make new connections among all participants.
+
+The event is organized and sponsored by the **Computational Biology and Medicine** (CBM) department, part of the Computational Sciences Center of Excellence (CS CoE), F. Hoffmann-La Roche Ltd. CBM enables drug discovery teams from target identification and assessment to Phase II/III in computational biology and medicine across disease areas, modalities and value chain. This department drives data driven decision making across the Roche and Genentech value chain. CS CoE was established in 2025 and has the vision to become Roche's global hub for data, computation and AI shaping the future of drug discovery and development.
 
 ### Topic
 
-The topic of the PMDA Summer School 2025 will be *Leveraging protein abundance for drug discovery*. The participants will work in teams to analyze and model data and integrate prior knowledge in order to model protein abundance data, which plays an important role in several aspects of drug discovery, as well as to improve our understanding of advantages and limitations of existing data resources.  More details shall follow.
+The topic of the Roche Computational Sciences Summer School 2026 will be *Systematic annotation of chemical probes to enhance phenotypic drug discovery*. The participants will work in teams to identify and annotate chemical probes in order to empower phenotypic drug discovery approaches. More details shall follow.
 
 ### Application
 
-We welcome **Ph.D. students** of Swiss universities with backgrounds in mathematics, statistics, data science, computing sciences, machine learning and AI, physics, chemistry, biology and relevant backgrounds to apply.
+We welcome **Ph.D. students** of Swiss universities with backgrounds in mathematics, statistics, computational sciences, physics, chemistry, biology, pharmacology, machine learning and AI, data science, and other relevant backgrounds to apply.
 
 If remaining positions are available, applications from PhD students enrolled in EU or UK universities and institutes, as well as master students enrolled in Swiss, EU or UK universities with outstanding qualifications may be considered in a case-by-case manner.
 
-The applicants are expected to bring experience in data analysis and modelling (for instance statistical modeling, machine learning and artificial intelligence, mechanistic modeling, or causal inference), as well as enthusiasm in applying the skills to solve real-world problems in drug discovery.
+The applicants are expected to bring experience in programming (ideally in R and/or Python), data analysis and modelling (for instance statistical modeling, machine learning and artificial intelligence, mechanistic modeling, or causal inference), as well as enthusiasm in applying the skills to solve real-world problems in drug discovery.
 
-[Use this Google Form to apply until Friday, June 13th, 2025](https://forms.gle/Q2ZtpTw2sga2JGek8). To register, you need a Google account. During the application, you will need to submit a cover letter and your current CV as a PDF file. You can also provide up to two contact persons as your reference *optionally*.
+[Use this Google Form to apply until Sunday, June 21th, 2025](https://forms.gle/Fm9GDtVEfHAW2GmH7i). To register, you need a Google account. During the application, you will need to submit an cover letter (one A4 page PDF file), your current CV (PDF file), and two contact persons as your reference.
 
 Please contact jitao_david.zhang (at) roche (dot) com in case of questions.
 
