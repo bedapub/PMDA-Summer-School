@@ -34,7 +34,7 @@ In a hurry? Here is <a href="assets/2025-4th-Roche-PMDA-Summer-School-A4.pdf">th
 
 Roche Computational Sciences Summer School is a one-week in-person event for PhD students to apply their domain knowledge and computational and data analysis skills to address problems in drug discovery and development. The event was previously (2022-2025) known as the Roche PMDA (Predictive Modeling and Data Analytics) Summer School.
 
-The event includes interactive workshops (~30%), team work (~60%), and discussions and feedback (~10%). The goals are to introduce industrial research problems to PhD students, to explore novel ways to address these problems, and to make new connections among all participants.
+The event includes interactive workshops (~20%), team work (~70%), and discussions and feedback (~10%). The goals are to introduce industrial research problems to PhD students, to explore novel ways to address these problems, and to make new connections among all participants.
 
 The event is organized and sponsored by the **Computational Biology and Medicine** (CBM) department, part of the Computational Sciences Center of Excellence (CS CoE), F. Hoffmann-La Roche Ltd. CBM enables drug discovery teams from target identification and assessment to Phase II/III in computational biology and medicine across disease areas, modalities and value chain. This department drives data driven decision making across the Roche and Genentech value chain. CS CoE was established in 2025 and has the vision to become Roche's global hub for data, computation and AI shaping the future of drug discovery and development.
 
